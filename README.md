@@ -45,3 +45,19 @@
 - Vuex — официальная документация: https://next.vuex.vuejs.org/
 - Vue.js 3 and Vuex 4 Tutorial (Net Ninja): https://www.youtube.com/watch?v=5lVQgZzLMHc
 - Vue 3 & Composition API - CRUD Tutorial using Axios and JSONPlaceholder API (Traversy Media): https://www.youtube.com/watch?v=JLc-hWsPTUY
+
+
+# Компоненты
+
+Изучите компоненты в Vue.js и создайте свои собственные компоненты, используя следующие темы:
+
+- Основы компонентов: что такое компоненты, как их создавать и использовать.
+- Props: как передавать данные в компоненты через атрибуты.
+- Emit: как обеспечить взаимодействие между компонентами и передавать события от дочерних компонентов к родительским.
+- Слоты: как использовать слоты для передачи контента между компонентами.
+
+Используйте следующие ресурсы для изучения компонентов:
+
+- Официальная документация Vue.js 3: https://v3.vuejs.org/guide/component-basics.html
+- Vue.js 3 Components Tutorial (Academind): https://www.youtube.com/watch?v=rsyKq8V-eGE
+- Vue 3 Essentials - 09 - Component Communication (Codevolution): https://www.youtube.com/watch?v=nyJsWmjG0tc
